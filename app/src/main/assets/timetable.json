@@ -1,0 +1,19 @@
+{
+    "Ballad":
+    {
+        "type":"Character Talent Material",
+        "dungeon":"Domain of Mastery: Realm of Slumber",
+        "characters":
+        [],
+        "days":
+        {
+            "monday":0,
+            "tuesday":0,
+            "wednesday":1,
+            "thursday":0,
+            "friday":0,
+            "saturday":1,
+            "sunday":1
+        }
+    }
+}
