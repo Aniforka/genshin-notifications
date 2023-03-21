@@ -1,19 +1,416 @@
 {
-    "Ballad":
+    "Talent":
     {
-        "type":"Character Talent Material",
-        "dungeon":"Domain of Mastery: Realm of Slumber",
-        "characters":
-        [],
-        "days":
+        "Freedom":
         {
-            "monday":       0,
-            "tuesday":      0,
-            "wednesday":    1,
-            "thursday":     0,
-            "friday":       0,
-            "saturday":     1,
-            "sunday":       1
+            "type":"Character Talent Material",
+            "dungeon":"Domain of Mastery: Frosted Altar",
+            "characters":
+            [],
+            "days":
+            {
+                "monday":       1,
+                "tuesday":      0,
+                "wednesday":    0,
+                "thursday":     1,
+                "friday":       0,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Resistance":
+        {
+            "type":"Character Talent Material",
+            "dungeon":"Domain of Mastery: Frozen Abyss",
+            "characters":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      1,
+                "wednesday":    0,
+                "thursday":     0,
+                "friday":       1,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Ballad":
+        {
+            "type":"Character Talent Material",
+            "dungeon":"Domain of Mastery: Realm of Slumber",
+            "characters":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      0,
+                "wednesday":    1,
+                "thursday":     0,
+                "friday":       0,
+                "saturday":     1,
+                "sunday":       1
+            }
+        },
+        "Prosperity":
+        {
+            "type":"Character Talent Material",
+            "dungeon":"Domain of Mastery: Altar of flames",
+            "characters":
+            [],
+            "days":
+            {
+                "monday":       1,
+                "tuesday":      0,
+                "wednesday":    0,
+                "thursday":     1,
+                "friday":       0,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Diligence":
+        {
+            "type":"Character Talent Material",
+            "dungeon":"Domain of Mastery: Heart of the Flames",
+            "characters":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      1,
+                "wednesday":    0,
+                "thursday":     0,
+                "friday":       1,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Gold":
+        {
+            "type":"Character Talent Material",
+            "dungeon":"Domain of Mastery: Circle of Embers",
+            "characters":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      0,
+                "wednesday":    1,
+                "thursday":     0,
+                "friday":       0,
+                "saturday":     1,
+                "sunday":       1
+            }
+        },
+        "Transience":
+        {
+            "type":"Character Talent Material",
+            "dungeon":"Domain of Mastery: Reign of Violet",
+            "characters":
+            [],
+            "days":
+            {
+                "monday":       1,
+                "tuesday":      0,
+                "wednesday":    0,
+                "thursday":     1,
+                "friday":       0,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Elegance":
+        {
+            "type":"Character Talent Material",
+            "dungeon":"Domain of Mastery: Thundering Valley",
+            "characters":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      1,
+                "wednesday":    0,
+                "thursday":     0,
+                "friday":       1,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Light":
+        {
+            "type":"Character Talent Material",
+            "dungeon":"Domain of Mastery: Vine-Infested Ruins",
+            "characters":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      0,
+                "wednesday":    1,
+                "thursday":     0,
+                "friday":       0,
+                "saturday":     1,
+                "sunday":       1
+            }
+        },
+        "Admonition":
+        {
+            "type":"Character Talent Material",
+            "dungeon":"Domain of Mastery: Fool Moon",
+            "characters":
+            [],
+            "days":
+            {
+                "monday":       1,
+                "tuesday":      0,
+                "wednesday":    0,
+                "thursday":     1,
+                "friday":       0,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Ingenuity":
+        {
+            "type":"Character Talent Material",
+            "dungeon":"Domain of Mastery: Witticism",
+            "characters":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      1,
+                "wednesday":    0,
+                "thursday":     0,
+                "friday":       1,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Praxis":
+        {
+            "type":"Character Talent Material",
+            "dungeon":"Domain of Mastery: Basket of Discipline",
+            "characters":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      0,
+                "wednesday":    1,
+                "thursday":     0,
+                "friday":       0,
+                "saturday":     1,
+                "sunday":       1
+            }
+        }
+    },
+    "Weapon":
+    {
+        "Decarabian":
+        {
+            "type":"Weapon Ascension Material",
+            "dungeon":"Domain of Forgery: City of Reflections",
+            "weapons":
+            [],
+            "days":
+            {
+                "monday":       1,
+                "tuesday":      0,
+                "wednesday":    0,
+                "thursday":     1,
+                "friday":       0,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Boreal Wolf":
+        {
+            "type":"Weapon Ascension Material",
+            "dungeon":"Domain of Forgery: Submerged Valleys",
+            "weapons":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      1,
+                "wednesday":    0,
+                "thursday":     0,
+                "friday":       1,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Dandelion Gladiator":
+        {
+            "type":"Weapon Ascension Material",
+            "dungeon":"Domain of Forgery: Ruins of Thirsting Capital",
+            "weapons":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      0,
+                "wednesday":    1,
+                "thursday":     0,
+                "friday":       0,
+                "saturday":     1,
+                "sunday":       1
+            }
+        },
+        "Guyun":
+        {
+            "type":"Weapon Ascension Material",
+            "dungeon":"Domain of Forgery: Thundercloud Altar",
+            "weapons":
+            [],
+            "days":
+            {
+                "monday":       1,
+                "tuesday":      0,
+                "wednesday":    0,
+                "thursday":     1,
+                "friday":       0,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Mist Veiled Elixir":
+        {
+            "type":"Weapon Ascension Material",
+            "dungeon":"Domain of Forgery: Thundering Ruins",
+            "weapons":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      1,
+                "wednesday":    0,
+                "thursday":     0,
+                "friday":       1,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Aerosiderite":
+        {
+            "type":"Weapon Ascension Material",
+            "dungeon":"Domain of Forgery: Trial Grounds of Thunder",
+            "weapons":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      0,
+                "wednesday":    1,
+                "thursday":     0,
+                "friday":       0,
+                "saturday":     1,
+                "sunday":       1
+            }
+        },
+        "Branch of a Distant Sea":
+        {
+            "type":"Weapon Ascension Material",
+            "dungeon":"Domain of Forgery: Sunken Sand",
+            "weapons":
+            [],
+            "days":
+            {
+                "monday":       1,
+                "tuesday":      0,
+                "wednesday":    0,
+                "thursday":     1,
+                "friday":       0,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Narukami":
+        {
+            "type":"Weapon Ascension Material",
+            "dungeon":"Domain of Forgery: Altar of Sands",
+            "weapons":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      1,
+                "wednesday":    0,
+                "thursday":     0,
+                "friday":       1,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Mask":
+        {
+            "type":"Weapon Ascension Material",
+            "dungeon":"Domain of Forgery: Sand Burial",
+            "weapons":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      0,
+                "wednesday":    1,
+                "thursday":     0,
+                "friday":       0,
+                "saturday":     1,
+                "sunday":       1
+            }
+        },
+        "Talisman of the Forest Dew":
+        {
+            "type":"Weapon Ascension Material",
+            "dungeon":"Domain of Forgery: Tainted Clouds",
+            "weapons":
+            [],
+            "days":
+            {
+                "monday":       1,
+                "tuesday":      0,
+                "wednesday":    0,
+                "thursday":     1,
+                "friday":       0,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Oasis Garden":
+        {
+            "type":"Weapon Ascension Material",
+            "dungeon":"Domain of Forgery: Obsession",
+            "weapons":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      1,
+                "wednesday":    0,
+                "thursday":     0,
+                "friday":       1,
+                "saturday":     0,
+                "sunday":       1
+            }
+        },
+        "Scorching Might":
+        {
+            "type":"Weapon Ascension Material",
+            "dungeon":"Domain of Forgery: Leading Karma",
+            "weapons":
+            [],
+            "days":
+            {
+                "monday":       0,
+                "tuesday":      0,
+                "wednesday":    1,
+                "thursday":     0,
+                "friday":       0,
+                "saturday":     1,
+                "sunday":       1
+            }
         }
     }
 }
