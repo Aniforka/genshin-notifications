@@ -6,7 +6,7 @@
             "type":"Character Talent Material",
             "dungeon":"Domain of Mastery: Frosted Altar",
             "characters":
-            [],
+            ["Amber", "Barbara", "Sucrose", "Klee", "Diona", "Tartaglia", "Aloy"],
             "days":
             {
                 "monday":       1,
@@ -23,7 +23,7 @@
             "type":"Character Talent Material",
             "dungeon":"Domain of Mastery: Frozen Abyss",
             "characters":
-            [],
+            ["Bennet", "Diluc", "Jean", "Mona", "Noelle", "Razor", "Eula"],
             "days":
             {
                 "monday":       0,
@@ -40,7 +40,7 @@
             "type":"Character Talent Material",
             "dungeon":"Domain of Mastery: Realm of Slumber",
             "characters":
-            [],
+            ["Albedo", "Venti", "Rosaria", "Kaeya", "Fischl", "Liza", "Mika"],
             "days":
             {
                 "monday":       0,
@@ -57,7 +57,7 @@
             "type":"Character Talent Material",
             "dungeon":"Domain of Mastery: Altar of flames",
             "characters":
-            [],
+            ["Keqing", "Ningguang", "Xiao", "Qiqi", "Shenhe", "Yelan"],
             "days":
             {
                 "monday":       1,
@@ -74,7 +74,7 @@
             "type":"Character Talent Material",
             "dungeon":"Domain of Mastery: Heart of the Flames",
             "characters":
-            [],
+            ["Chongyun", "Xiangling", "Ganyu", "Hu Tao", "Kaedehara Kazuha", "Yun Jin", "Yao Yao"],
             "days":
             {
                 "monday":       0,
@@ -91,7 +91,7 @@
             "type":"Character Talent Material",
             "dungeon":"Domain of Mastery: Circle of Embers",
             "characters":
-            [],
+            ["Xingqiu", "Beidou", "Zhongli", "Xinyan", "Yanfei", "Baizhu"],
             "days":
             {
                 "monday":       0,
@@ -108,7 +108,7 @@
             "type":"Character Talent Material",
             "dungeon":"Domain of Mastery: Reign of Violet",
             "characters":
-            [],
+            ["Yoimiya", "Sangonomiya Kokomi", "Thoma", "Shikanoin Heizou"],
             "days":
             {
                 "monday":       1,
@@ -125,7 +125,7 @@
             "type":"Character Talent Material",
             "dungeon":"Domain of Mastery: Thundering Valley",
             "characters":
-            [],
+            ["Kamisato Ayaka", "Arataki Itto", "Kujou Sara", "Kamisato Ayato", "Kuki Shinobu"],
             "days":
             {
                 "monday":       0,
@@ -142,7 +142,7 @@
             "type":"Character Talent Material",
             "dungeon":"Domain of Mastery: Vine-Infested Ruins",
             "characters":
-            [],
+            ["Sayu", "Gorou", "Raiden Shogun", "Yae Miko"],
             "days":
             {
                 "monday":       0,
@@ -159,7 +159,7 @@
             "type":"Character Talent Material",
             "dungeon":"Domain of Mastery: Fool Moon",
             "characters":
-            [],
+            ["Tighnari", "Cyno", "Candance", "Faruzan"],
             "days":
             {
                 "monday":       1,
@@ -176,7 +176,7 @@
             "type":"Character Talent Material",
             "dungeon":"Domain of Mastery: Witticism",
             "characters":
-            [],
+            ["Dori", "Nahida", "Layla", "Alhaitham", "Kaveh"],
             "days":
             {
                 "monday":       0,
@@ -193,7 +193,7 @@
             "type":"Character Talent Material",
             "dungeon":"Domain of Mastery: Basket of Discipline",
             "characters":
-            [],
+            ["Collei", "Nilou", "Wanderer", "Dehya"],
             "days":
             {
                 "monday":       0,
